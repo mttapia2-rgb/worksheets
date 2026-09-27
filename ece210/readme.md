@@ -16,9 +16,9 @@
 
 # Midterm 2:
 
--Blank Notes:
+-Blank Notes: Problem 1.2 is a little odd, from what I remember students are not asked to represent a signal of multiple frequencies as a single phasor, maybe should change that problem such that both sinusoidals have the same frequency
   
--Solutions Notes:
+-Solutions Notes: 1.1 solution and 2.1 is correct
   
 -Date Last Updated: 3/8/2026
 
